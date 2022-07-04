@@ -1,0 +1,8 @@
+Тут будет код новой программы
+
+
+import numpy as np
+test_list = [1, 2, 3]
+array = np.array(test_list)
+print(array, array.shape, len(array))
+
