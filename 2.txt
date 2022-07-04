@@ -11,3 +11,8 @@ print(array, array.shape, len(array))
 a = np.array([20, 30, 40, 50])
 b = np.arange(4)
 b
+
+a + b
+
+b ** 2
+
